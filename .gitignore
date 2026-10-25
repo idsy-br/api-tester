@@ -1,0 +1,7 @@
+/apitester
+/apitester.exe
+/*.json
+# relatórios gerados: têm o endereço da API, o usuário e os resultados
+/relatorio-*.html
+/relatorio-*.pdf
+/*.exe~
